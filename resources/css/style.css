@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+/* HEADINGS*/
+.header-title{
+ font-family: verdana;
+ font-weight: normal;
+ font-size: 50px;
+ color: white;
+ text-align: center;   
+}
+
+.header-second{
+    font-family: verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color:white;
+}
+
+.header-sub{
+    font-family: verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+/* LINK*/
+.link-dl{
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* FOOTER */
+
+.footer-copy{
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
+
+
